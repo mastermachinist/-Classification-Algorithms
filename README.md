@@ -1,6 +1,5 @@
 # Analysis-on-Video-Game-Sales-Data
 
-Analysis on Video Game Sales
 By Atif Salam
 
 Video games have come a long way since the first games emerged in the 1970’s. With a plethora of genres & consoles it has become the next-big thing for investment. Video games are a billion-dollar business and have been for many years. In 2020, the revenue from the worldwide PC gaming market was estimated at almost 37 billion U.S. dollars, while the mobile gaming market generated an estimated income of over 77 billion USD. Let us analyse the gaming industry market and who are its major consumer marketplace countries by looking at this given data set.
